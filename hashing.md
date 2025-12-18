@@ -222,7 +222,7 @@ If they match → message is valid and authentic.
 
 # Screenshot of file integrity by hash
 
-![file integriyt](screenshot/)
+![file integriyt](screenshot/image.png)
 
 
 📌 **Recommended Algorithms Today**
