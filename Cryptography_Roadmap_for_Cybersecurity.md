@@ -187,10 +187,12 @@ In cybersecurity, cryptography ensures:
 
 ## 📸 RSA Demo – Screenshot Section
 
-![RSA Key Generation](rsa_screenshot.png)
+![RSA Key Generation](screenshot/image2.png)
 
-## Learning Resources
-# Free Resources
+### Learning Resources
+
+
+## Free Resources
 
 - NIST Cryptography Standards
 
